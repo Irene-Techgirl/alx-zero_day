@@ -1,3 +1,1 @@
-My first readme
-*c
-*C
+another readme for 0x03-git
